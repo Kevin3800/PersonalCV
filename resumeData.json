@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"Kevin Deng",
+    "description":"Driven by curiosity, focused on innovation, never stop exploring.",
+    "image":"images.jpg",
+    "bio":"My name is Kevin. I graduated from the University of Sydney with a Master of Information Technology degree in 2024. Since then, I have been living in a beautiful city called Sydney on the East Coast of Australia.",
+    "contactmessage":"Thank you for your feedback.",
+    "email": "kaijingdeng23@gmail.com",
+    "phone": "0421041586 ",
+    "github":"https://github.com/Kevin3800",
+    "project":"https://github.com/Kevin3800/PersonalCV",
+    "address":{
+      "line1":"Address: 152 City Rd",
+      "line2":"City: Sydney",
+      "line3":"Country: Australia"
+    },
+    "linkedin":{
+      "english": {
+        "name": "KAIJING DENG",
+        "url": "https://www.linkedin.com/in/kaijing-deng-35835b282/"
+      },
+      "chinese": {
+        "name": "澳洲程序员大卫",
+        "url":"https://www.youtube.com/@aus-david"
+      }
+    },
+    "website": "http://cyberlark.com.au",
+    "resumedownload":"./images/resume.pdf",
+    "social":[
+      {
+        "name":"Facebook",
+        "url":"https://www.facebook.com/profile.php?id=100084272671095",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/CyberlarkCode",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"youtube-chinese",
+        "url":"https://www.youtube.com/channel/UCArZ1Su6EjdiEA0qrx1Pfqg",
+        "className":"fa fa-youtube-square"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fa fa-linkedin-square"
+      },
+      {
+        "name":"toutiao",
+        "url":"https://www.ixigua.com/home/1521358670931997/",
+        "className":"fa fa-weibo"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"University of Sydney",
+        "degree":"Master of Information technology  with data analysis and management",
+        "graduated":"2022 - 2024",
+        "description":""
+      },
+      {
+        "school":"AWS certification",
+        "degree":"AWS Certified Solutions Architect - Professional",
+        "graduated":"Dec 2021",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"SQUADRON",
+        "title":"Data analyst",
+        "years":"Augest 2023 - December 2023",
+        "description":"Implemented data preprocessing and automated candidate filtering using Python and NLP tools, optimizing algorithm performance and enhancing accuracy through continuous testing and refinement. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Backend Development (Infrastructure, API, Database)",
+        "level":"95%"
+      },
+      {
+        "name":"Frontend Development (React, Angular)",
+        "level":"85%"
+      },
+      {
+        "name":"Embeded Software development (C/C++)",
+        "level":"80%"
+      },
+      {
+        "name":"Leadership & Management",
+        "level":"75%"
+      },
+      {
+        "name":"Passion & Eager to learn",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Course",
+        "description": "如何在澳洲找IT工作",
+        "category": "Course",
+        "image":"00.png",
+        "url":"https://course.cyberlark.com.au/courses/it"
+      },
+      {
+        "title":"Project",
+        "description": "Investment Property Calculator",
+        "category": "Project",
+        "image":"04.png",
+        "url":"https://property.cyberlark.com.au/"
+      },
+      {
+        "title":"Video",
+        "description": "How to use Investment Property Calculator",
+        "category": "Video",
+        "image":"01.png",
+        "url":"https://www.youtube.com/watch?v=W5I-eij2q6E"
+      },
+      {
+        "title":"Video",
+        "description":"How I passed the AWS Solutions Architect Professional Certification Exam",
+        "category":"Video",
+        "image":"02.png",
+        "url":"https://www.youtube.com/watch?v=qftrfxGou_E"
+      },
+      {
+        "title":"Video",
+        "description":"Amazon Interview Experience | All things you need to prepare amazon interview",
+        "category": "Video",
+        "image":"03.png",
+        "url":"https://www.youtube.com/watch?v=kg2sJgO3Esc"
+      },
+      {
+        "title":"Video",
+        "description": "如何使用澳洲房产投资计算器",
+        "category": "Video",
+        "image":"01-chinese.png",
+        "url":"https://www.youtube.com/watch?v=03WayI5czhY"
+      }
+    ]
+  }
+}
